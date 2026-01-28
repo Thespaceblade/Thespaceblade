@@ -32,13 +32,13 @@ Python static analysis tool that extracts fully qualified table and column refer
 
 ## Research and Experience
 
-**UNC School of Data Science and Society — Undergraduate Researcher**  
+**UNC School of Data Science and Society - Undergraduate Researcher**  
 Building Python pipelines for preprocessing, QC, and exploratory analysis on high-dimensional genomics and epigenomics datasets. Implementing and benchmarking literature-driven approaches including deep tensor factorization and network-based gene and protein modeling with reproducible, version-controlled workflows.
 
-**GBCS Group — Data Science Intern (Remote)**  
+**GBCS Group - Data Science Intern (Remote)**  
 Ingest and structure multi-platform SEO and engagement data in Python, engineer features for forecasting and segmentation, and deliver regression and clustering analyses through KPI dashboards used to guide content strategy.
 
-**Hope Street Free Clinic — Data Analytics Intern**  
+**Hope Street Free Clinic - Data Analytics Intern**  
 Built demand forecasting and resource allocation models to target high-need neighborhoods. Shipped a full intake and scheduling system with a Flask backend, SQLite database, and lightweight React UI, digitizing workflows and reducing administrative overhead.
 
 ---
