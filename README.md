@@ -65,11 +65,33 @@ Built demand forecasting and resource allocation models to target high-need neig
 
 ## GitHub Activity
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thespaceblade&show_icons=true&hide_title=true&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thespaceblade&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Thespaceblade)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Thespaceblade&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true"
+        alt="GitHub stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thespaceblade&layout=compact&langs_count=8"
+        alt="Top languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img
+        src="https://streak-stats.demolab.com?user=Thespaceblade"
+        alt="GitHub streak"
+        width="85%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
